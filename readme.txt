@@ -1,132 +1,48 @@
-==================================================================================================
+# Personal Portfolio - Dooshima Hemen
 
-DESCRIPTION:
+Welcome to my personal portfolio website, [dooshimahemen.vercel.app](https://dooshimahemen.vercel.app/). This site showcases my projects, skills, and ways to connect. Here’s everything you need to know about the resources used and the customizations I’ve implemented to make it uniquely mine.
 
-LUTHER is a modern, stylish, free personal website template designed for creative individuals 
-and professionals. It is the perfect template if you wish to build an online presence and create 
-a strong first impression on all your site visitors. Luther will help you craft a personal 
-professional website wherein you can showcase your works, talents, and present yourself on the 
-web in the best possible light. On top of that, the template is versatile and easy to customize 
-so with some modifications and a bit of creativity you even use it as a portfolio site for 
-digital studios or a landing page for your projects.
+## Project Overview
 
-==================================================================================================
+This portfolio website is a blend of carefully curated resources and my own personalized modifications to present my work in a visually engaging way. I decided not to use any frameworks and present it simply with the web's base languages. I hope it provides an insightful look into my skills and interests as a web developer and tech enthusiast.
 
+## Key Features
 
-LICENSE:
+- **Responsive Design**: Optimized for both desktop and mobile viewing, ensuring an excellent user experience across devices.
+- **Dynamic Offline Caching**: Using Service Workers, essential files and images are cached to allow offline viewing, so users can access my portfolio without a continuous internet connection.
+- **Custom Styling & Layout Adjustments**: Leveraging CSS for a cohesive, modern look that aligns with my personal brand.
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+## Built With
 
+- **HTML5 & CSS3**
+- **JavaScript (including plugins)** for dynamic interactions
+- **Service Workers** for offline functionality
+- **Vercel** for deployment
 
-Rights:
--------
+## Resources
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+This website template was initially developed by **[StyleShout](https://www.styleshout.com/)**, which I then customized to suit my branding and unique portfolio needs. Resources utilized include:
 
+- [Luther](https://themewagon.com/themes/luther-personal-portfolio-html-template/), the original template from StyleShout.
+- Icon libraries for social media links
+- Google Fonts for consistent typography
+- Anime.js (etc - add the others before git deploymenyt)
 
-Prohibitions:
--------------
+## Customization & Personalization
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+- Updated layout and text content to reflect my skills and work
+- Offline caching feature through Service Workers, allowing cached viewing of essential components
+- Optimized images for faster load times
+- Optimized head tag for better SEO
 
+## Live Site
 
-Attribution: 
-------------
+Explore the website live at [dooshimahemen.vercel.app](https://dooshimahemen.vercel.app/)
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+## License
 
+This project is licensed under the terms of the original [StyleShout License](https://www.styleshout.com/license/) with added modifications for personal use.
 
+## Contact
 
-If you have any questions about the License, feel free to contact us.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since LUTHER is distributed for free, support is not offered. LUTHER is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Public Sans Font (https://fonts.google.com/specimen/Public+Sans)
- - DM Serif Display (https://fonts.google.com/specimen/DM+Serif+Display)
-
-Icons:
- - Iconmonstr (https://iconmonstr.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - Anime.js (https://animejs.com/)
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Basic Lightbox (https://basiclightbox.electerious.com/)
- - MailtoUI (https://mailtoui.com/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
-
-
+Feel free to reach out via the website's contact section, or follow me on social media to stay updated with my work!
