@@ -9,14 +9,12 @@ This portfolio website is a blend of carefully curated resources and my own pers
 ## Key Features
 
 - **Responsive Design**: Optimized for both desktop and mobile viewing, ensuring an excellent user experience across devices.
-- **Dynamic Offline Caching**: Using Service Workers, essential files and images are cached to allow offline viewing, so users can access my portfolio without a continuous internet connection.
 - **Custom Styling & Layout Adjustments**: Leveraging CSS for a cohesive, modern look that aligns with my personal brand.
 
 ## Built With
 
 - **HTML5 & CSS3**
 - **JavaScript (including plugins)** for dynamic interactions
-- **Service Workers** for offline functionality
 - **Vercel** for deployment
 
 ## Resources
